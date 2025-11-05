@@ -1,0 +1,39 @@
+/* nabegador de arriba */
+
+
+.encabezado-menu {
+    gap: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: white;
+    list-style: none;
+   
+}
+.encabezado{
+    padding: 20px 50px;
+    display: flex;
+    
+}
+.encabezado-menu a {
+    text-decoration: none;
+    color:cornflowerblue;
+
+    
+}
+.logo1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #5CB8B2;
+    letter-spacing: 2px;
+}
+.logo2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e78fcd;
+    letter-spacing: 2px;
+}
+body {
+    background-image: url(sk_fondo.jpg)  ;
+}
